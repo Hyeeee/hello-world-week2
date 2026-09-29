@@ -1,9 +1,7 @@
-# Assignment 4 — A Sentence That Grows
+# Assignment 4 — A Growing Balloon
 
 **Data type: String**
 
-My idea is to turn a typed sentence into a little plant. Each letter grows a leaf along the stem, and each space starts a new branch. An exclamation mark adds a flower, while a question mark curls the tip of the stem. Deleting a character removes its matching part of the plant.
+My idea is a balloon that gets bigger as I type a word. The word appears inside the balloon. Each new letter makes it a little bigger, and deleting a letter makes it smaller.
 
-For example, typing “hello” grows five leaves. Changing it to “hello!” adds a flower. Replacing the exclamation mark with “?” removes the flower and curls the stem instead.
-
-I would sketch these three states: **hello → hello! → hello?**. The plant changes its shape and mood as the text changes.
+For example, “hi” makes a small balloon, and “hello” makes a bigger one. I would draw these two versions to show how changing the text changes the balloon.
